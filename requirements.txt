@@ -1,0 +1,4 @@
+djitellopy==2.5.0
+mediapipe==0.10.8
+opencv_contrib_python==4.8.1.78
+opencv_python==4.8.1.78
